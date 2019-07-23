@@ -1,4 +1,7 @@
-# Coursera Machine Learning using Python
+# Coursera Machine Learning Exercises using Python
+
+<p align="center"><img src="https://coursera.s3.amazonaws.com/topics/ml/large-icon.png" width="200"/></p>
+
 In this repository you will find Python-implementations of (most of) the programming exercises in Andrew Ng's Machine Learning course 
 (which is actually tought using Octave/Matlab). 
 
