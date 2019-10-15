@@ -3,7 +3,7 @@
 <p align="center"><img src="https://coursera.s3.amazonaws.com/topics/ml/large-icon.png" width="200"/></p>
 
 In this repository you will find Python-implementations of (most of) the programming exercises in Andrew Ng's Machine Learning course 
-(which is actually tought using Octave/Matlab). 
+(which is actually taught using Octave/Matlab). 
 
 Every exercise folder includes a *data*-subfolder containing files provided by the course, which are
 needed to complete the specific exercise.
